@@ -2,7 +2,7 @@
 Web3 Crypto POS | Bringing decentralized payments to real-world businesses
 
 Product Image
-
+![TabbyPOS Product](images/tabbypos_product_01.jpg)
 
 Product Video
 
