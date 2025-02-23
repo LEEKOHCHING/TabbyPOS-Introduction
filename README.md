@@ -17,6 +17,7 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system based on Malaysia that e
 #### The chains currently integrating are as follows: <br>
 1. 🔥BSC
 2. 🔥TRON
+3. 🔥Pi Network
 
 ## Social<br>
 - 🐦 Twitter : https://x.com/tabbypos<br>
