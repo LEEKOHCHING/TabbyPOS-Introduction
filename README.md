@@ -12,12 +12,12 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system based on Malaysia that e
 1. ✅ Ergo
 2. ✅ IoTeX 
 3. ✅ ICP 
-4. ✅ Solana 
+4. ✅ Solana
+5. ✅ Pi Network
 
 #### The chains currently integrating are as follows: <br>
 1. 🔥BSC
 2. 🔥TRON
-3. 🔥Pi Network
 
 ## Social<br>
 - 🐦 Twitter : https://x.com/tabbypos<br>
