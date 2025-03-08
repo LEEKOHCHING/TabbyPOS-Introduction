@@ -19,6 +19,11 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system based on Malaysia that e
 1. 🔥TRON
 2. 🔥BitGet Wallet
 
+## How its work ?<br>   
+TabbyPOS adopts a peer-to-peer payment method, where cryptocurrency is transferred directly from the user's wallet to the merchant's wallet. We do not handle or custody any assets, so there are no compliance issues related to asset custody or transfers. Our device integrates multi-chain functionality and is equipped with a backend system for viewing payment records, making payments more convenient and management more efficient for merchants and customers.
+
+
+
 ## Our Client<br>
 TabbyPOS has not officially started sales yet. We are preparing for an official market launch in Q2 2025.<br>
 
