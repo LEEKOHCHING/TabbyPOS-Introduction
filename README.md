@@ -5,8 +5,9 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system that enables merchants t
 ## The achievements of TabbyPOS so far：<br>
 1. 🏆Received funding support from ICP Dfinity Foundation，and successfully completed the designated milestones.<br>
 2. 🏆Received funding support from Solana Foundation，and successfully completed the designated milestones.<br>
-3. 🚀TabbyPOS already has an MVP product, with only 20% progress remaining before full commercial deployment.<br>
-4. 🏪Currently, 10 merchants are actively testing the system.
+3. 🏆Received funding support from Aptos Foundation，and successfully completed the designated milestones.<br>
+4. 🚀TabbyPOS already has an MVP product, with only 20% progress remaining before full commercial deployment.<br>
+5. 🏪Currently, 10 merchants are actively testing the system.
 
 #### The chains successfully integrated are as follows:<br>
 1. ✅ Ergo
