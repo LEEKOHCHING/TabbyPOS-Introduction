@@ -1,6 +1,6 @@
 # TabbyPOS-Introduction
 #### Web3 Crypto POS | Bringing decentralized payments to real-world businesses<br>
-TabbyPOS is a cryptocurrency point-of-sale (POS) system based on Malaysia that enables merchants to accept crypto payments seamlessly. It supports multiple blockchains, including Ergo, IoTeX, ICP, and Solana, providing a fast, secure, and efficient transaction experience. With TabbyPOS, merchants can easily integrate crypto payments into their businesses while benefiting from a decentralized and scalable infrastructure.
+TabbyPOS is a cryptocurrency point-of-sale (POS) system that enables merchants to accept crypto payments seamlessly. It supports multiple blockchains, including Ergo, IoTeX, ICP, and Solana, providing a fast, secure, and efficient transaction experience. With TabbyPOS, merchants can easily integrate crypto payments into their businesses while benefiting from a decentralized and scalable infrastructure.
 
 ## The achievements of TabbyPOS so far：<br>
 1. 🏆Received funding support from ICP Dfinity Foundation，and successfully completed the designated milestones.<br>
