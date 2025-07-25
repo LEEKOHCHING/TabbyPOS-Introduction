@@ -38,8 +38,7 @@ TabbyPOS has not officially started sales yet. We are preparing for an official 
 
 ## Social<br>
 - 🐦 Twitter : https://x.com/tabbypos<br>
-- ✈️ Telegram (EN) : https://t.co/TCS1rxjBTL<br>
-- ✈️ Telegram (CN) : https://t.co/HxM3QZOxRC<br>
+- ✈️ Telegram : https://t.co/TCS1rxjBTL<br>
 - 🔗 Website ：https://www.tabbylab.io/<br>
 
 ## Team Info<br>
