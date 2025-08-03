@@ -16,7 +16,6 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system that enables merchants t
 4. ✅ Pi Network
 5. ✅ BSC
 6. ✅ APTOS
-7. ✅ FLOW
    
 
 #### The chains currently integrating are as follows: <br>
