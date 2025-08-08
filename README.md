@@ -100,6 +100,9 @@ b) buy and burn $TABBY worth 3 SOL. <br>
 <br><br>
 [ICP Pay Demo](https://x.com/i/status/1791378929812705525)
 <br><br>
+[Aptos Pay Demo](https://x.com/i/status/1924150206830088688)
+<br><br>
+
 ## 🖼️ Product Image<br>
 <img src="images/tabbypos_product_01.jpg" alt="TabbyPOS" width="500">
 <br>
