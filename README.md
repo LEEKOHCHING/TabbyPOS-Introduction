@@ -48,7 +48,8 @@ Social link : https://twitter.com/Cstehbeauty<br>
 ### $TABBY<br>
 - ⛓️ Chain : BSC<br> 
 - 🏦 DEX : https://shorturl.at/6o6Xa<br>
-- 🏦 CEX : https://nonkyc.io/market/TABBY_USDT<br><br>
+- 🏦 CEX : https://nonkyc.io/market/TABBY_USDT<br>
+- 🛠 DEX Screener : https://dexscreener.com/bsc/0x5f97840b40dfe20b620604ab13f71c709a28cb6b<br>
 - 📜 CA  : 0x319558c8aD708dc42f45ab70eADA4750d6c942d7
 
 ### Revenue Model 💵💵<br>
