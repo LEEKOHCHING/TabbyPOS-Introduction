@@ -8,6 +8,7 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system that enables merchants t
 3. 🏆Received funding support from Aptos Foundation，and successfully completed the designated milestones.<br>
 4. 🏆Won 3rd place in the GUI INU Hackathon.<br>
 5. 🚀TabbyPOS is now available on Google Play Store.<br>
+6. 🔥Featured on the official BNB Chain blog.<br>
 
 #### The chains successfully integrated are as follows:<br>
 1. ✅ Ergo
@@ -16,10 +17,6 @@ TabbyPOS is a cryptocurrency point-of-sale (POS) system that enables merchants t
 4. ✅ Pi Network
 5. ✅ BSC
 6. ✅ APTOS
-
-#### The chains currently integrating are as follows: <br>
-1. 🔥TRON
-2. 🔥BitGet Wallet
 
 ## How its work ?<br>   
 TabbyPOS adopts a peer-to-peer payment method, where cryptocurrency is transferred directly from the user's wallet to the merchant's wallet. We do not handle or custody any assets, so there are no compliance issues related to asset custody or transfers. Our device integrates multi-chain functionality and is equipped with a backend system for viewing payment records, making payments more convenient and management more efficient for merchants and customers.
