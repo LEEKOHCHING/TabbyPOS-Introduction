@@ -25,7 +25,7 @@ TabbyPOS adopts a peer-to-peer payment method, where cryptocurrency is transferr
 <br>
 
 ## Our Client<br>
-TabbyPOS has not officially started sales yet. We are preparing for an official market launch in Q2 2025.<br>
+TabbyPOS has not officially started sales yet. We are preparing for an official market launch in Q4 2025.<br>
 
 ## Social<br>
 - 🐦 Twitter : https://x.com/tabbypos<br>
